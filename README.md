@@ -13,3 +13,4 @@ a ideia do ProdutoDisponivel é que seja uma entidade voltada para o consumo em 
 
 os microsserviços foram implementados de forma síncrona, por não existir necessidade explícita (dentro da proposta do case) de incluir assincronismo ou arquitetura de eventos.
 
+para concluir o case, além de terminar de implementar os microsserviços listados, gostaria de ter adicionado APIs de autorização e autenticação, para controlar acesso de APIs específicas de clientes, usuários e administradores. Em sequência, implementaria uma API Gateway para otimizar a coleção de microsserviços.
