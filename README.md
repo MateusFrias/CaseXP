@@ -7,7 +7,7 @@ as entidades envolvidas nos requisitos do case geraram o seguinte diagrama:
 
 dessas entidades, foram implementados os microsserviços de Produto e ProdutoDisponivel.
 
-a ideia do ProdutoDisponivel é que seja uma entidade voltada para o consumo em tempo real dos usuários e clientes para negociação de produtos disponíveis neste momento. A tabela Produto guarda mais informações sobre os produtos disponíveis e o histórico de todos os produtos que já foram negociados pela empresa, sendo referenciando na entidade Carteira do Cliente.
+a ideia do ProdutoDisponivel é que seja uma entidade voltada para o consumo em tempo real dos usuários e clientes para visualização e negociação de produtos disponíveis neste momento. A tabela Produto guarda mais informações sobre os produtos disponíveis e o histórico de todos os produtos que já foram negociados pela empresa, sendo referenciando na entidade Carteira do Cliente.
 
 os microsserviços foram implementados de forma síncrona, por não existir necessidade explícita (dentro da proposta do case) de incluir assincronismo ou arquitetura de eventos.
 
