@@ -11,11 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaseXP.Services.ProdutoDisp
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ConsoleApp", "ConsoleApp", "{032F1010-96AC-4CA0-BFB1-EBBB1FA0440B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaseXP.ConsoleApp.AlertaVencimentoProdutos", "CaseXP.ConsoleApp.AlertaVencimentoProdutos\CaseXP.ConsoleApp.AlertaVencimentoProdutos.csproj", "{6A340210-A7AE-4B03-848E-4CA865E6A37A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaseXP.ConsoleApp.AlertaVencimentoProdutos", "CaseXP.ConsoleApp.AlertaVencimentoProdutos\CaseXP.ConsoleApp.AlertaVencimentoProdutos.csproj", "{6A340210-A7AE-4B03-848E-4CA865E6A37A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaseXP.Services.Carteira", "CaseXP.Services.Carteira\CaseXP.Services.Carteira.csproj", "{1FA1E8C5-9517-461B-86D0-C61C975EFDAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaseXP.Services.CarteiraAPI", "CaseXP.Services.Carteira\CaseXP.Services.CarteiraAPI.csproj", "{1FA1E8C5-9517-461B-86D0-C61C975EFDAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaseXP.Services.Transacao", "CaseXP.Services.Transacao\CaseXP.Services.Transacao.csproj", "{FB967172-8145-44F2-928D-5F823E30EA8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaseXP.Services.TransacaoAPI", "CaseXP.Services.Transacao\CaseXP.Services.TransacaoAPI.csproj", "{FB967172-8145-44F2-928D-5F823E30EA8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
