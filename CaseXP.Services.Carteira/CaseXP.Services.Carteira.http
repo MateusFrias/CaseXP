@@ -1,0 +1,6 @@
+@CaseXP.Services.Carteira_HostAddress = http://localhost:5045
+
+GET {{CaseXP.Services.Carteira_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

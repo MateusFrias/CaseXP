@@ -1,0 +1,6 @@
+@CaseXP.Services.Transacao_HostAddress = http://localhost:5104
+
+GET {{CaseXP.Services.Transacao_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

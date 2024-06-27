@@ -1,0 +1,6 @@
+@CaseXP.Services.ProdutoDisponivelAPI_HostAddress = http://localhost:5138
+
+GET {{CaseXP.Services.ProdutoDisponivelAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
