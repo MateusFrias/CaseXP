@@ -2,7 +2,9 @@ o projeto consiste em arquitetura de microsserviços, implementada em .NET 8 e u
 
 o banco de dados é criado e populado na primeira execução do projeto, seguindo as Migrations de cada microsserviço.
 
-as entidades envolvidas nos requisitos do case geraram o seguinte diagrama:
+para executar: alterar a connection string do appsettings.json do Produto e ProdutoDisponivel, para um novo servidor SQL Server que aceite a criação de bancos e tabelas via Entity Framework Core.
+
+baseado nas entidades e regras descritos nos requisitos do case, gerei o seguinte diagrama de entidades:
 ![image](https://github.com/MateusFrias/CaseXP/assets/9474242/cbcc4c95-7d33-430f-8cfc-ec972337d1ab)
 
 dessas entidades, foram implementados os microsserviços de Produto e ProdutoDisponivel.
