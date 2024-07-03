@@ -1,6 +1,0 @@
-@CaseXP.Services.CupomAPI_HostAddress = http://localhost:5141
-
-GET {{CaseXP.Services.CupomAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

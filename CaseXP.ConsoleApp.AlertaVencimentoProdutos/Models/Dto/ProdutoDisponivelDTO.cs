@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace CaseXP.Services.ProdutoDisponivelAPI.Models.Dto
+namespace CaseXP.ConsoleApp.AlertaVencimentoProdutos.Models.Dto
 {
     public class ProdutoDisponivelDTO
     {
